@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systems change framework documentation on Systems change for sustianable tech</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>http://localhost:1313/systemstree/systemschange-sustainabletech/docs/</link>
     <description>Recent content in Systems change framework documentation on Systems change for sustianable tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/systemstree/systemschange-sustainabletech/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
-      <link>http://localhost:1313/docs/overview/</link>
+      <link>http://localhost:1313/systemstree/systemschange-sustainabletech/docs/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/overview/</guid>
+      <guid>http://localhost:1313/systemstree/systemschange-sustainabletech/docs/overview/</guid>
       <description>&lt;h2 id=&#34;guiding-objectives&#34;&gt;Guiding objectives&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#guiding-objectives&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The following objectives guide the framework&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Systemic structure for sustainable interventions:&lt;/strong&gt;: Provide a robust framework incorporating the principles of systems thinking to design impactful interventions that directly address the root causes of unsustainable practices in technology. This involves using tools like mental models and causal loop diagrams to understand complex interrelationships within the tech ecosystem and pinpoint leverage points for maximum positive change.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Empowering action and project implementation:&lt;/strong&gt;: Equip organizations with practical tools and workshops to translate sustainability vision into actionable projects grounded in regenerative principles. The framework aims not  just to minimize harm but actively contribute to restoring and enhancing natural resources and social equity through technology.&lt;/p&gt;</description>
     </item>
   </channel>
