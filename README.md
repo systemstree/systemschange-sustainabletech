@@ -16,8 +16,6 @@ The iterative systems change framework has six phases and is designed to help or
 - Phase 6: Evaluate the progress and report success and learnings.
 
 #References:
-
-The framework is still evolving and is a product of the experience of SystemsTree and also of various systems thinking pioneers:
 - [1] Senge, P. (1990). The Fifth Discipline: The Art and Practice of the Learning Organization. Random House Business Books
 - [2] David Peter Stroh. (2015). Systems Thinking for Social Change: Chelsea Green Publishing
 - [3] Donella H. Meadows. (2008). Thinking in Systems: Chelsea Green Publishing
