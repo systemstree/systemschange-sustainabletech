@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Systems change for sustianable tech'
+[module]
+    replacements = "github.com/FortAwesome/Font-Awesome -> ., github.com/twbs/bootstrap -> ."
+[[module.imports]]
+    path = "docsy"
+[params]
+[params.ui]
+showLightDarkModeMenu = true
+
+
+
