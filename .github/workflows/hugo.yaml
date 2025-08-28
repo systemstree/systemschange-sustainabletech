@@ -45,7 +45,7 @@ jobs:
 
       - name: Install Node.js dependencies
         run: |
-          npm ci
+          npm install
 
       - name: Build with Hugo
         env:
