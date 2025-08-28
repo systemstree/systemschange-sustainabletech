@@ -8,6 +8,9 @@ title = 'Systems change for sustianable tech'
 [params]
 [params.ui]
 showLightDarkModeMenu = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 
 
