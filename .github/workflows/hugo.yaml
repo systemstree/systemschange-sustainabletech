@@ -45,6 +45,7 @@ jobs:
 
       - name: Install Node.js dependencies
         run: |
+          cd themes/docsy
           npm install
 
       - name: Build with Hugo
