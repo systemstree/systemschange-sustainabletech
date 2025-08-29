@@ -2,13 +2,13 @@
 title: Phase-5 [Create quantified goals and action plan]
 description: >
    This phase helps in building quantified goals and action plan to implement the interventions.
-weight: 4
+weight: 5
 ---
 
 
 ## Objective
 
-Transform aspirational sustainability commitments into concrete, measurable targets and actionable plans to achieve the interventions identified in phase 4. This phase focuses on establishing specific, time-bound, and quantifiable goals coupled with a detailed roadmap for implementation, ensuring progress can be tracked and success evaluated.
+Design goals and action plan for individual interventions identified in phase 4. This phase focuses on establishing specific, time-bound, and quantifiable goals coupled with a detailed roadmap for implementation, ensuring progress can be tracked and success evaluated.
 
  
 
@@ -17,10 +17,10 @@ Transform aspirational sustainability commitments into concrete, measurable targ
 
 Following process can be followed to design goals and action plan to work on the interventions
 
-- **Goal Derivation from Vision & Leverage Points:** Translate the overarching sustainability vision into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals directly linked to the key leverage points identified in Phase 4. Each goal should address a critical aspect of moving towards sustainability within the organization.
+- **Goal Derivation from Vision & Leverage Points:** Translate the vision into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals directly linked to the interventions identified in Phase 4. Each goal should address a critical aspect of moving towards sustainability within the organization.
 
 
-- **Impact Variable Focus:** Prioritize goals directly tied to the most crucial Impact Variables identified earlier. These variables will serve as primary indicators of progress towards the desired sustainable future.
+- **Impact Variable Focus:** Prioritize goals directly tied to the most crucial impact variables. These variables will serve as primary indicators of progress towards the desired sustainable future.
 
 
 - **Baseline & Target Setting:** Establish clear baselines for each impact variable, capturing current performance data. Set ambitious yet realistic targets for improvement within a defined timeframe (e.g., 3-5 years), ensuring continuous progress.

@@ -2,18 +2,18 @@
 title: Phase-2 [Map current reality of unsustainable tech using systems map]
 description: >
   This phase looks at the variables and their relationships with each other that make tech unsustainable. 
-weight: 4
+weight: 2
 ---
 
 
 ## Objective
 
- To collaboratively construct a understanding of technology's current sustainability reality through the lens of causal loop diagrams, revealing interconnected impacts across its lifecycle. This exercise moves beyond isolated issues and encourages a holistic view of systemic challenges and opportunities.
+ To collaboratively construct a understanding of technology's current sustainability reality through the lens of causal loop diagrams (CLDs), revealing interconnected impacts across its lifecycle. This exercise moves beyond isolated issues and encourages a holistic view of systemic challenges and opportunities.
 
 
 ## Process
 
- Employing a systems-thinking approach, we will utilize causal loop diagrams (CLDs) as our primary tool throughout a structured workshop with four key stages:
+ Employing a systems-thinking approach, we will utilize CLDs as the primary tool throughout a structured workshop with four key stages:
 
 
 - **Foundation: Defining the Tech Ecosystem:** Begin by sketching out the entire lifecycle of technology, explicitly incorporating unsustainable software practices:
@@ -29,6 +29,6 @@ weight: 4
 - **Key Themes Identification:**: Highlight critical sustainability themes emerging from each lifecycle stage (e.g., biodiversity loss, carbon emissions, social inequity). 
 
 
-- **Building the causal loop diagram (CLD):** In small groups, construct separate CLDs focusing on specific themes identified.
+- **Building the CLDs:** In small groups, construct separate CLDs focusing on specific themes identified.
 
  
