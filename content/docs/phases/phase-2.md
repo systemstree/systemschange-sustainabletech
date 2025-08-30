@@ -19,7 +19,7 @@ weight: 2
 - **Foundation: Defining the Tech Ecosystem:** Begin by sketching out the entire lifecycle of technology, explicitly incorporating unsustainable software practices:
   * **Extraction & manufacturing:** While acknowledging physical resource extraction, emphasize the "software footprint." Analyze data center location choices and energy consumption tied to fossil fuels. Discuss embodied carbon in software development and updates.
   
-  * **Unsustainable algorithms and data processing::** Highlight computationally intensive algorithms including excessive energy use in trainingAI  models, leading to increased carbon emissions. Map out the lifecycle of data storage and processing, revealing hotspots for inefficiency and environmental impact.
+  * **Unsustainable algorithms and data processing::** Highlight computationally intensive algorithms including excessive energy use in training AI  models, leading to increased carbon emissions. Map out the lifecycle of data storage and processing, revealing hotspots for inefficiency and environmental impact.
 
   * **Distribution and use (Software-centric impacts):** Go beyond physical products to include the energy consumed by constant app updates, cloud services, and user behavior influenced by resource-heavy features.
         

@@ -1,20 +1,20 @@
 ---
 title: Phase-4 [Design interventions to reduce the gap between vision and current reality]
 description: >
-  This phase translates the vision and leverage insights into concrete, measurable goals and a detailed action plan. It outlines specific actions, timelines, and responsible parties, setting the roadmap for progress.
+  This phase translates the vision and leverage insights into concrete, measurable goals and a detailed action plan. It outlines specific actions, timelines, and responsible parties, setting the roadmap for sustainable tech.
 weight: 4
 ---
 
 ## Objective
 
-To collaboratively identify the most impactful intervention points (leverages) within the constructed CLD. 
+To collaboratively identify the most impactful intervention, for the leverages that are identified in phase-3. 
  
 
 ## Process
 
 These steps guide the development of effective interventions within critical leverage points.
 
-- **Prioritize leverage points:** Based on data gathered in previous phases (Vision/Values/Purpose, current reality, identifying leverages), design interventions that work on those leverages. Focus on systems and processes most influential in driving sustainability progress.
+- **Prioritize leverage points:** Based on data gathered in previous phases (Vision/Values/Purpose, current reality, identified leverages), design interventions that work on those leverages. Focus on systems and processes most influential in driving sustainability progress.
 
 - **Solution design workshop:** Engage cross-functional teams (tech, operations, policy, sustainability experts) in a collaborative workshop to come up with multiple interventions per leverage point.
 
