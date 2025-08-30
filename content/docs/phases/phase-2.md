@@ -23,7 +23,7 @@ weight: 2
 
   * **Distribution and use (Software-centric impacts):** Go beyond physical products to include the energy consumed by constant app updates, cloud services, and user behavior influenced by resource-heavy features.
         
-  * **End-of-life (software obsolescence):** Discuss planned obsolescence in software, leading to frequent upgrades and e-waste generation indirectly linked to hardware replacements. Explore the challenge of sustainable software deconstruction and data anonymization.
+  * **End-of-life (software obsolescence):** Discuss planned obsolescence in software, leading to frequent upgrades and e-waste generation indirectly linked to hardware replacements. 
 
 
 - **Key Themes Identification:**: Highlight critical sustainability themes emerging from each lifecycle stage (e.g., biodiversity loss, carbon emissions, social inequity). 

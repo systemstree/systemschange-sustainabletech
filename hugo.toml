@@ -6,12 +6,11 @@ title = 'Systems change for sustianable tech'
 [[module.imports]]
     path = "docsy"
 [params]
+    copyright = "Licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 [params.ui]
 showLightDarkModeMenu = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 disableKinds = ["taxonomy"]
-
-
 
