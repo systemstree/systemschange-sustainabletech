@@ -1,0 +1,17 @@
+baseURL = 'https://systemstree.github.io/systemschange-sustainabletech/'
+languageCode = 'en-us'
+title = 'Systems change for sustianable tech'
+[module]
+    replacements = "github.com/FortAwesome/Font-Awesome -> ., github.com/twbs/bootstrap -> ."
+[[module.imports]]
+    path = "docsy"
+[params]
+    copyright = "Licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+    githubUrl = "https://github.com/systemstree/systemschange-sustainabletech"
+[params.ui]
+showLightDarkModeMenu = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+disableKinds = ["taxonomy"]
+

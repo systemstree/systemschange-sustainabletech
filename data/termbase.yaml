@@ -1,0 +1,11 @@
+- term: Systems thinking
+  definition: Systems thinking is a way of making sense of the complexity of the world by looking at it in terms of wholes and relationships rather than by splitting it down into its parts.
+  category: systems_thinking
+  source: "https://en.wikipedia.org/wiki/Systems_thinking"
+
+
+- term: Causal loop diagram 
+  definition: A causal loop diagram (CLD) is a causal diagram that visualizes how different variables in a system are causally interrelated. The diagram consists of a set of words and arrows. 
+  abbr: CLD
+  category: systems_thinking
+  source: https://en.wikipedia.org/wiki/Causal_loop_diagram
