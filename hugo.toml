@@ -1,6 +1,6 @@
 baseURL = 'https://systemstree.github.io/systemschange-sustainabletech/'
 languageCode = 'en-us'
-title = 'Systems change for sustianable tech'
+title = 'Systems change for sustainable tech'
 [module]
     replacements = "github.com/FortAwesome/Font-Awesome -> ., github.com/twbs/bootstrap -> ."
 [[module.imports]]
