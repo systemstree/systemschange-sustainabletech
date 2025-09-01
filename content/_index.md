@@ -2,17 +2,15 @@
 title: Systems change framework
 ---
 
-{{< blocks/cover title="Welcome to systems change framework!" image_anchor="top" height="min" >}}
+{{< blocks/cover title="Welcome to systems change for sustainable tech framework!" image_anchor="top" height="min" >}}
 <!-- <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Read the phases <i class="fab fa-github ms-2 "></i>
 </a> -->
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-# Systems Change for Sustainable Tech Framework
 
 Welcome to the repository of the Systems Change for Sustainable Tech Framework!
 
