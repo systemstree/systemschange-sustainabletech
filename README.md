@@ -2,7 +2,7 @@
 
 Welcome to the repository of the Systems Change for Sustainable Tech Framework!
 
-This repository hosts the documentation and blueprint for a systems change framework dedicaed to driving sustainable technology adoption. Centered around a continuous circular process, this framework empowers organizations to transition towards responsible and sustainable technological development.
+This repository hosts the documentation and blueprint for a systems change framework dedicated to driving sustainable technology adoption. Centered around a continuous circular process, this framework empowers organizations to transition towards responsible and sustainable technological development.
 
 ## The six phases
 
